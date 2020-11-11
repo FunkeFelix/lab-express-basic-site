@@ -1,0 +1,22 @@
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+button {
+    margin-top: 20px;
+    border-radius: 5px;
+    background-color: white;
+
+}
+.middle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: bisque;
+    width: 50vh;
+    height: 50vh;
+}
